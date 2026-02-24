@@ -74,6 +74,7 @@ const cardInfo = {
     build,
     notApp
 }
+// dfn git
     
 const interviewCountListExist = interviewCountList.find(item => item.interviewBtn = cardInfo.interviewW)
 
